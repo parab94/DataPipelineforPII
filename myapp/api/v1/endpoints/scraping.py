@@ -52,27 +52,30 @@ async def scraping_data(currentUser: CognitoClaims = Depends(getUser)):
     return "scraping successful"
 
 def grab_page(url,i,fname):
-    # print("*********************attempting to grab page: " + url)
-    page = requests.get(url)
-    page_html = page.text
-    #print(page_html)
-    soup = BeautifulSoup(page_html, 'html.parser')
-    #meta = soup.find("div",{'class':'a-info get-alerts'})
-    content = soup.find(id="a-body")
-    if type(content) == "NoneType":
-        # print("------------------skipping this link, no content here")
-        return
-    else:
-        text = content.text
-        #mtext = meta.text
-        # print("**")
-        filename = "transcript"+str(i) # + get_date(mtext)
-        file = open(filename.lower() + ".txt", 'w')
-        file.write(text)
-        file.close
-        newKey = filename +'.txt'
-        s3client.put_object(Bucket= bucketName , Key=newKey, Body=text)
-        # print(filename.lower()+ "sucessfully saved")
+    try:
+       # print("*********************attempting to grab page: " + url)
+       page = requests.get(url)
+       page_html = page.text
+       #print(page_html)
+       soup = BeautifulSoup(page_html, 'html.parser')
+       #meta = soup.find("div",{'class':'a-info get-alerts'})
+       content = soup.find(id="a-body")
+       if type(content) == "NoneType":
+          # print("------------------skipping this link, no content here")
+          return
+       else:
+          text = content.text
+          #mtext = meta.text
+          # print("**")
+          filename = "transcript"+str(i) # + get_date(mtext)
+          file = open(filename.lower() + ".txt", 'w')
+          file.write(text)
+          file.close
+          newKey = filename +'.txt'
+          s3client.put_object(Bucket= bucketName , Key=newKey, Body=text)
+          # print(filename.lower()+ "sucessfully saved")
+    except:
+          print("------------------skipping this link, no content here")
 
 def process_list_page(url,i):
     origin_page = url + "/" + str(i)

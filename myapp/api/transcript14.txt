@@ -1,0 +1,194 @@
+LexinFintech Holdings Ltd. (NASDAQ:LX) Q3 2020 Results Earnings Conference Call November 24, 2020  6:00 AM ET
+Company Participants
+Tony Hung - Investor Relations
+Jay Xiao - Founder, Chairman & CEO
+Craig Zeng - CFO
+Ryan Liu - Chief Risk Officer
+Stanley Zhao - Senior Financial Director
+Conference Call Participants
+Jacky Zuo - China Renaissance
+Ethan Wang - CLSA
+Sanjay Jain - Aletheia Capital
+Steven Chan - Haitong International
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to the LexinFintech Third Quarter 2020 Earnings Conference Call. At this time all participants are in a listen-only mode. I must advise you that this conference is being recorded today.
+I’d now like to hand the conference over to your first speaker today, Mr. Tony Hung, Senior Director for Capital Markets. Thank you. And please go ahead, sir.
+Tony Hung
+Thank you, operator. Hello, everyone, and welcome to Lexin's third quarter 2020 earnings conference call. The company's results were issued earlier today and are posted online. Joining me today on the call are Mr. Jay Xiao, our Founder, Chairman and Chief Executive Officer; Mr. Craig Zeng, our Chief Financial Officer; Mr. Ryan Liu, our Chief Risk Officer; Mr. Stanley Zhao, our Senior Financial Director; and other members of our team.
+For today's agenda, Mr. Xiao will provide an overview of our recent performance and highlights, Mr. Zeng will discuss our financial results, and Mr. Liu will discuss our credit performance. Before we continue, I refer you to our safe harbor statement in the earnings press release, which applies to this call as we will make forward-looking statements. Also, please note that this call includes discussions of certain non-GAAP financial measures. Please refer to our earnings release, which contains a reconciliation of non-GAAP measures to the most directly comparable GAAP measures. Finally, please note that unless otherwise stated, all figures mentioned during this conference call are in renminbi. 
+I will now turn the call over to our CEO, Mr. Xiao, whom I will translate for.
+Jay Xiao
+[Foreign Language] Thank you, everyone. I'm pleased today to announce that we’ve once again reported strong growth and I'm pleased to say that our new growth is higher quality, lighter and more agile.
+[Foreign Language] In the third quarter, we continue to pursue our new consumption strategy and our total registered users increased by 69.6%, reaching RMB106 million. Our active users reached RMB7.4 million, an increase of 21.3%. This growth enabled us to achieve RMB48.3 billion in new loan originations, an increase of 30.6%, with revenues of RMB3.2 billion, gross profit of RMB978 million and EBIT of RMB499 million.
+[Foreign Language] A more important goal for change is in the continued improvement and the quality of our revenues. Currently, Lexin is already shifting rapidly from an asset or capital heavy risk bearing guarantee loan facilitation model into a technology-driven, non-risk bearing loan facilitation model.
+Under this model, Lexin will utilize its advanced technology to service an enable financial institutions to increase their operational efficiency and Lexin’s technology services can accomplish customer acquisition, internal systems build out and operations management for our partners.
+[Foreign Language] [indiscernible] Lexin’s third quarter platform and technology revenues reached RMB1.13 billion, representing 36% of total revenues, of which our risk was to be [ph] technology revenues with RMB614 million, which increased 159% year-on-year. Within New transactions, the risk was pure technology portions was 40% and since October has already surpassed 50%.
+Under this model, financial institutions will bear the risk, enabling us to generate higher quality profits, be more compliant with the direction of regulators and regulations. And in the long term, enable Lexin to develop a lighter, more agile and more nimble model, providing greater room for growth.
+
+[Foreign Language] Consumption has been the number one driver for China's economy for the past six years now, becoming both in name and reality, the Chinese economy stabilizer and anchor, at the same time as China's per capita GDP passes the milestone of US$10,000 per capita. Increasing domestic demand and promoting consumption will continue to offer tremendous potential and represents one of the most vital and core components to the government's rapidly developing new dual circulation strategy.
+[Foreign Language] In the future, we will continue to explore opportunities with our new consumption strategy and establish multiple new products and businesses. Our Le card membership program is already seeing initial results. And we have released our new Fenqile [ph] app, creating a system that covers all consumption scenarios and providing a more open new consumption platform.
+We will endeavor to capture the opportunities provided by the world's largest consumption market, focusing on products and services that is centered on new consumption. Opening greater room for growth, we're fully confident in our ability to achieve the RMB170 billion to RMB180 billion loan origination guidance that we set out before the COVID-19 pandemic.
+[Foreign Language] Another, item which I also like to report to everyone is that as an internet platform with over 100 million registered users, our responsibility to our users and their hopes and aspirations are always our highest priority. In August, Fenqile [ph] initiated a new and comprehensive brand upgrade campaign, adjusting our brand into the consumption changes of our young customers and promoting our [Foreign Language] or Just Right, It's Just Perfect brand.
+We aim to use our knowledge of our young customer’s product preferences, and desires to accompany and grow with them, our millions and millions of young customers. Our new branding reflects Lexin’s long-term focus as training the image around our brand, and has received recognition and gain trust from various parts of society.
+[Foreign Language] Next I'd like to invite Craig, CFO, our CEO CFO, Craig to discuss our recent financial performance.
+Craig Zeng
+Thank you, Jay. And hello, everyone. I'm pleased to announce that we have once again delivered strong results. In the interest of time, I will not go over line item by line item of our financials. For a more detailed discussion of our third quarter results, please refer to our earnings press release.
+Total operating revenue reached RMB3.2 billion in the quarter and credit-oriented service income reached RMB2.0 billion. Platform-based service income reached RMB640 million, representing a increase of 109% from the third quarter of 2019. Adjusted net income was RMB443 million. Fully diluted adjusted net income for the quarter for ADS was RMB2.15.
+On our operating leverage, operating expense as a percentage of average loan balance was 3.5% for the quarter and now advertisement, marketing, advertising, G&A and R&D was 0.8%, 1.4%, 0.6% and 0.7% of average loan balance, respectively.
+We currently have 106 million registered users and our customer with credit line reached 25.2 million, up by 51% for September 30, 2019. We acquired nearly 1.7 million new active customers in the third quarter. For the quarter, our average tenure was 11.4 months, our nominal APR was 15%.
+The ongoing COVID-19 outbreak has brought and continue to bring many challenges and uncertainty to our business. But we believe that with the continued determined efforts of our team, we will still be able to achieve our initial stated governance of RMB170 to RMB180 billion in loan origination for the year.
+Next, Ryan will discuss our credit situation. Ryan, please?
+Ryan Liu
+Thank you, Craig. We continued our stable credit performance in this quarter. In spite of challenging condition in the market, our credit quality continues to be high and with expected levels, and we fully expect our credit status to continue to perform well and at expected levels.
+
+Our 90 days delinquency ratio declined from the second quarter to 2.6% in the third quarter. And then we continue to stay stable improving credit performance as our lifetime charge-off ratio has stabilized. This is consistent with our previous statements and falling within our range of expectations. And we fully expect our credit performance to remain stable, up continued to improve towards the end of 2020 and into 2021.
+With that, I conclude our prepared remarks. Operator, please proceed with the questions-and-answer session.
+Question-and-Answer Session
+Operator
+Thank you. [Operator Instructions] Your first question comes from the line of Jacky Zuo from China Renaissance. Please ask your question.
+Jacky Zuo
+[Foreign Language] Thanks, management for taking my questions. I have three questions. Number one is about your [indiscernible] guidance and the trend for next year. So I truly observed that our loan growth is better than most peers. So what is our outlook for next year?
+And second question is about our asset quality. Can management share with us some color about the short term delinquency rates, collection rates, and the vintage loss for the new loans originated in the first nine months this year? And the write-back provision we can expect in the coming months or quarters?
+And lastly, it's about the regulation. We saw the news that the overall trend for regulation is to ask the FinTech giants to deleverage and the market also concerned about the upcoming tightening on the loan origination, sorry, loan facilitation model, so do we have some color on the regulatory trend that will be very helpful? Thank you.
+Craig Zeng
+[Foreign Language] So to answer the first question, with regards to the guidance, so as mentioned, we certainly look forward to accomplishing the guidance this year. That's been quite challenging, given that we actually gave the guidance originally during the time, that was not only pre-COVID, but also with a period of time when we were growing the basket. And clearly, if you can see from the results, the first quarter we like many others were impacted, and it was quite challenging.
+Then the second half, we adjusted and through the teams efforts and hard work, we now feel very, very strongly and confident, that we can achieve our guidance for this year. The Singles Day for this year was also particularly good. And when we look at the fourth quarter, it looks like it may be possible that we once again create a new high when it comes to loan origination.
+Now next year overall, we believe that things should continue to be good. And overall, not surprisingly, things are improving. Obviously, COVID-19 situation is coming under control gradually over time, and especially in China, consumption in China continues to be strong and recovered. And in fact, as you mentioned a little bit earlier just now, the Singles Day this year is better than last year overall. So we can really see the strength in consumption.
+So if next year, the overall economy is better, there's no reason why things shouldn't be better. And plus, in addition, it should be noticed that our asset quality continues to improve. So if that's the case, then obviously we certainly believe that next year should be pretty good. And obviously when we have something more precise, we'll be sure to communicate to everyone about our expectations for next year.
+Jay Xiao
+[Foreign Language] And so I think with regards to your question on the asset quality trend, this quarter things overall continues to improve. And for example, the FPD7 declined from about 2.3 to 3.2 plus. In general everything go bucket of statistics that Ryan will look at, looks better. The M1 is better by 5%, collections are better, vintages for 30 day delinquency in the third quarter is now better by 30%. And generally speaking the third quarter, the new loan origination, the asset quality looks good. And we see this trend continuing to exhibit itself next year. Now a lot of the quality performance won't show up until next year results, but we certainly see this trend continuing.
+
+Ryan Liu
+Just one correction, the FPD7 is improving from 2.3 to 1.8.
+Jay Xiao
+So I think everybody has heard various voices and different opinions on the whole subject of what the regulators are saying with regards to your question, Jacky. But overall, I think at the end of the day, what the regulators and the government wants to do is to continue to promote the healthy regulator growth of the industry.
+I think the regulators and the government as a whole also very clearly and I spoken out clearly, recognizing the technology contributions that have been made to the sector and the improvements that have been made by companies such as ourselves.
+And what the regulators are also seeking is to pursue a fair market for everyone. And for everyone who's in similar businesses to be treated equally, it can't be someone who's doing something very equivalent to another entity, and somehow, they get special treatment.
+Now, we see very clearly, and I think many people recognize this, that the new policies as a whole have very, very limited impact on us. Our use of microloan license that’s less than 1%, whatever the regulation is, or has been about the ABS, et cetera, that also has a limited impact. So really, we don't see much impact to us on the regulatory front.
+[Foreign Language]
+So on the whole loan facilitation model, as Jacky, I think you're probably aware and you certainly have written [ph] a bit on. The CBRC I mean, earlier this year, they clearly established who does what and what the rules are on loan facilitation model. So this has been clearly established. And we have been doing everything to be fully compliant with the firmly established rules and regulations.
+And this is why we are pursuing very actively the profit-sharing model which utilizes our technology and asset life to be fully compliant with the goals of the regulators. In these instances, the financial institutions will of course, take on the risk as the regulators have wanted and indicated in the past, we will receive a pure service fee for the service that we provide and how picking the right client for the financial institutions.
+And this is clearly more combined with all the regulatory directions and goals that people have been following for quite a long time, actually now. And this is, in addition, consistent with the government's goal on the internal circulation part of the dual circulation strategy for promoting consumption. And we can even see actually, some of the recent announcements that you do see the potential loosening of various leverage and constraints.
+So in this environment, we’re becoming actually more and more compliant with the regulatory directions. And we believe that based on the current situation, in a fairer market, Lexin is going to have many, many opportunities. And we're even going to have opportunities, potentially to do certain things that we couldn't do that before in this fairer market. So although we're actually quite positive on the direction of the regulatory environment and the opportunities that it will potentially offer.
+Operator
+Your next question comes from the line of Ethan Wang from CLSA. Please ask your question.
+Ethan Wang
+[Foreign Language] I have two questions. The first is a follow up question on asset quality, and so although we are seeing improving asset quality trend, however, if we divide provision by the loan origination, there's still uptick from the last quarter. So just wondering, what is the reason behind? And there are also some investment related loss in other income, that is that also related to asset quality. Just wanted to have some more color on that?
+And a second question is on the take rate. So, if we divide by the service revenue, by the loan origination amount, the ratio actually also goes up a bit compared to last quarter. So just wondering, what is the driving force behind when interest rate is going lower? And when we are transferring - transitioning to capitalize model? Yeah, thank you.
+
+Jay Xiao
+[Foreign Language] So I think on the asset quality, and in terms of the outstanding situation that we will, I think we certainly have to take a conservative approach, given that the COVID-19 situation and other factors still are impacting the economy. So some of these numbers, we may need to be a little bit more conservative.
+Provisions, I think you also have to divide that between the new and old and clearly the new it's getting better and we can see the trends, we can see this happening, but for some of the old client, we have to be, as mentioned, a little bit more conservative about some of these things. So having said that, you do have actually a few different things going on, that's not necessarily a reflection of just the new or positive trend.
+[Foreign Language]
+And so I think, first let me touch on the other income, since Eaton you asked that first. As Craig just mentioned, I think within that, there's a few things not the least of which is a FX loss, because we do have a US dollar CB, et cetera. And that we did see a improvement in the value of the renminbi. So you have things like that going on.
+The second question that you have on the take rate. Well, it's definitely not that simple. We definitely can't make that types of simply calculations, it include some future items, include some past items and run-off. So you certainly can't view that as just the current or the future. Rather, it's a combination of different things, part of it under the new accounting standard, again, needs to be [indiscernible] 
+So to speak different things going on there. And it may be worthwhile for us to have a more detailed offline discussions on the calculations in the future.
+Ethan Wang
+[Foreign Language]
+Jay Xiao
+Ethan, can you translate that for us? Thanks.
+Ethan Wang
+Sure. Sure. Just a quick follow up on take rate. So just wondering if management can give us some more color or guidance on the future trend of the take rate? Thank you.
+Jay Xiao
+Yeah, we didn't give any guidance on the take rate trend. Basically it's quite a - it's relatively stable on different models, like we have this profit sharing model, we have this direct lending model, so rapidly it's quite stable. But it's a mix, its changing. [Foreign Language]
+Ethan Wang
+[Foreign Language] Got it. Thank you.
+Operator
+Your next question comes from the line of Sanjay Jain from Aletheia Capital. Please ask your question.
+Sanjay Jain
+Thank you management for your presentation. A few questions. Let me start with follow up on the profit sharing model. As per my calculation, your take rate in profit sharing of the fee rate seems to have fallen from 7.8% in the fourth quarter of last year to 6.8% in the second quarter and further to 6.5% in the third quarter. I mean, I know your numbers internally could be different from what I'm trying to estimate. But can you confirm that the fee in profit sharing is down by 100 plus basis points compared to the fourth quarter? And is this because this is the preps of the profit sharing model that the losses for banks have gone up, so they are passing on those losses to you and that's why your fee has fallen?
+Tony Hung
+Okay. Sanjay, I’ll translate that for you…
+Sanjay Jain
+Yeah, sorry. Yeah, please.
+Tony Hung
+No problem.
+Sanjay Jain
+Thank you, Tony.
+Tony Hung
+[Foreign Language] So Sanjay, that was Stanley saying that well, on our profit sharing model, at least in our case, there's no risk to us. I mean, we don't have to give something to the banks or the financial institutions. You know, it doesn't get that high. So you know, there isn't that mechanism going on recently on profit sharing model.
+Now, with regards to the profit sharing numbers, it may be worthwhile for us to touch base offline to try to tie all the numbers together. Stanley doesn't have the fourth quarter calculation from last year handy, but based on I can see from earlier this year, it was much more like between 3.2% to 3.4%. So it's nothing that high like over six or over seven, but that just is probably something nuanced in the calculation. But it certainly hasn't fallen that dramatically and again, at least in our model, we don't really need to give anything to the banks, per se.
+
+Sanjay Jain
+Okay, okay. Yes. And so we can discuss offline. My second question is on the process of matching a loan to a bank partner. And I know you have explained this in the past. But let me ask again, when you receive a loan, and he's acceptable in your scoring criteria, and suppose the borrower is also satisfying the criteria, when you buy more than one funding partner, how do you select which funding partner the loan goes to? And then what options or choice does the funding partner have? Can they say more than yes or no? Can they say that, look, you know, you're sending me you know, 5000 yuan loan, I can take 3000 or you're sending, you know, 5000 yuan loan at my way. But at 24%, I would like to get 26% from this customer. So how does it work? And if that bank says no, then does the loan go to the next one, or if it's indicated, or kind of shared? And the final question on that is whether you co-lend [ph] a little bit say 1% of each loan?
+Tony Hung
+Okay, let me translate that for the team. [Foreign Language]
+Jay Xiao
+[Foreign Language]
+Tony Hung
+So Sanjay, what Jay wants to emphasize is that when we connect the user to the funding partner, the one-co [ph] system is a very comprehensive and complex system. It's based on all the different funding partners requests, and all the things that they have inputted into the system. And emphasis is definitely on providing high quality customer service, which means speed.
+So on that basis, what happened always is it would be a one to one, so there's no syndication, there's no sweating. So always it's a one to one, then obviously there's no co-lending. So there's none of that going on. So that's the big picture logic.
+Now also within this is that there's other considerations as well, based on the potential profitability, the interest, risk. We also need to decide what is perhaps the most appropriate funding model to use, whether it's loan guarantee, profit sharing, et cetera. So there are few different things that are going on here.
+Jay Xiao
+[Foreign Language]
+Tony Hung
+So with regards to the funding partners choices, they obviously also have the choice to reject the credit that we provide, and many do. But of course, different funding partners have different rejection rates. So I'm very familiar with our customers, where we are familiar with the risk. And as a result, they would have lower rejection rates. So for whatever reasons more risk averse, and we'll have a high rejection rate. And as you know, if a, rejects the credit, and in most media [ph] it goes to b, and then is after that, for whatever reason, somehow nobody accepts the credit, then obviously, we will actually have to close the transaction.
+I think it's also worth emphasizing that maybe, and this is not necessarily a exact comparison, but maybe it's somewhat like the right sharing platforms DD here in China. There is a lot of different calculations that someone actually goes through when they fail a CAT [ph], it could be something on the platform, somewhere outside of direct platform, et cetera. It depends on the distance, it depends on the profit, really, et cetera. So there's definitely quite a few different things going on. That's quite complicated in the background.
+Sanjay Jain
+Okay, okay. So just to be clear that the bank can only accept or reject a proposal when it comes from you?
+Tony Hung
+[Foreign Language]
+Jay Xiao
+[Foreign Language]
+Tony Hung
+As a whole I mean, all these discussions have to occur before the funding partner is put into the system. We have to basically discuss the parameters well in advance. That way that when the actual transaction comes in the efficiency and the customer experience is fast. So in essence, it can only be yes or no.
+Jay Xiao
+[Foreign Language]
+Tony Hung
+I think Jay also wants to add that, typically when we work with your average financial institution, they begin on a platform with a high rejection rate because they are quite conservative, not surprisingly. And also they would recognize, and always we would recognize that the efficiency there is not the highest. But then we take steps to help them increase their efficiency, and also develop their own risk control systems.
+
+So this year, we have a specific FinTech team that is working very directly with the banks, on improving the risk control systems, and also increasing their efficiency to help them preserve the quality of the assets, and also help them build the model and data. And we can see that we're making actually good inroads, and it may become a bigger part of our revenues in the future.
+Sanjay Jain
+Okay, fair enough. Thank you. My last question, you know, your loan origination volume this year has been very impressive. And you know, it's growing quite nicely on last year, and last year, itself was very, very strong growth on the previous year. So I just want to reconfirm my impression about your customer profile.
+So my impression based on our chats over the years, is that you have young, college educated customer cohort, now 25, 26 year old. So has there been any change in that, any deviation? Are you moving up in terms of the age profile or going more into Tier 3, Tier 4, Tier 5 cities or less educated, maybe going into polytechnic rather than college, various parameters on the on the customer profile side, have they changed? And as your customers age, then what is your value proposition to them, vis-à-vis say borrowing unsecured loan from a bank?
+Tony Hung
+[Foreign Language]
+Jay Xiao
+[Foreign Language]
+Tony Hung
+[Foreign Language] So you're absolutely right on the core profile of our young customers. And as a whole, our customers have changed a little bit. You can imagine some of the customers that have been with us the longest, five to six years, quite often, they are now very, very white collar. And sometimes they might even have their own businesses or operation to be well. And they may in fact, use the credit that we put aside for some of these activities.
+So on that note, we certainly would potentially need to have greater scale and more services on that. We also see that based on our experience and our operations and the model and our ability to assess and manage with that we now do have the ability to move towards lower tier cities to encompass more different types of customers with different degrees and diversified.
+So there is also that going on as well. And certainly this will help continue to improve with our growth. So hence it's driving our growth. And it's also driving our ability to continue to drive our growth.
+Sanjay Jain
+Okay. Can you share some data about what percentage is now outside of say, Tier 1, Tier 2 cities? What percentage is outside of the 25, 26 year college educated kind of group?
+Tony Hung
+Okay, Sanjay. But this would has to be last question from your side, sorry, let me translate for the team. [Foreign Language]
+Jay Xiao
+[Foreign Language]
+Tony Hung
+So I think that might be a little bit too detailed at this time. And just very quickly, our average age is actually still at 25. But I think we can get into some of the more details later.
+Sanjay Jain
+Okay. Thank you very much. Appreciate it.
+Tony Hung
+The active customers is 25, yeah, sorry.
+Sanjay Jain
+Okay. Thank you.
+Operator
+Your next question comes from the line of Steven Chan from Haitong International. Please ask your question.
+Steven Chan
+[Foreign Language] My question is just to follow up on the provision charges. You mentioned that the 2Q rise in provision charges in Q3 was partly due to some of the increase an provision charges for some of the old customer, just want to clarify whether it is related to you some weakening in the asset quality or delinquency of these old customers or is it more related to prudency? If it is related to prudent attitude will there be potential write back in the coming quarters?
+And also from a credit cost concept which is defined as the provision charges as a percent of average loan outstanding. Do you think that the Q4 credit cost will likely to return to the Q2 level or you will just stay at the Q3 level? So that's the first question.
+
+And second question is the customer based on my own estimation, the customer acquisition costs per head seems to decline in Q3 versus that in Q2? What's the rationale behind, do you have any guidance for Q4 on the trend of these customer acquisition costs? Thanks.
+Tony Hung
+[Foreign Language]
+Craig Zeng
+So on the provisions, I think we have to monitor the customer behavior very carefully. And based on the data that we're seeing from the old customers, which are primarily the customers that we acquired in the second half of last year 2019, Q3, Q4 met the online advertising method. The customer behavior requires us to be a little bit more conservative. And I think in the fourth quarter we’ll certainly, again take a very similar approach. And just see how the customers behave.
+Tony Hung
+[Foreign Language]
+Craig Zeng
+Yeah, I think Steven, as you know that our customer acquisition strategy actually has been quite stable overall in terms of our approach, and the type of cost that we would like to get the customers at. So you'll never see any really significant rise or any significant fall on a per customer basis, you might see something like what you see, in the current quarter, it seems stable or lower. And there will be you know, very specific reasons for that, but nothing in terms of like a particular trend one way or another.
+So in the third quarter, it was a no small part to the fact that we're using less online ads, and more cooperation partnerships, which inherently are lower costs. That's certainly one or two major reasons. Another reason is that, in general, the third quarter is very favorable for us to acquire customers. That's always been the case.
+But again, overall, no there's no real, shall we say, long term drop or rise or trend or otherwise. And it's actually in general, quite stable. So again, I think it's the same strategy that you're familiar with, that you've heard from us in the past.
+[Foreign Language] So I think, also, Steven, you know, I've probably have talked about in the past, we've always emphasized a diversification of customer acquisition and working with different channels. So that's always been something that we set out to construct.
+So this year, for example, we will do more of Lehua Card [ph] more of working with various platforms and having various cooperation and avoiding some of – if you look at standardized traffic that has occurred in the past. Right now, in particular, we're doing a lot more of teaching music, of Tencent video, many other online videos where if somebody opens an account on the Lehua Card, we give a membership. And this in all will basically bring up at least in the near term, some more stability to our costs as we pursue these type of channels in the near future.
+Steven Chan
+[Foreign Language] My last question is, I think that management guidance last time is that, that you aim to achieve a vintage of, you know, 4% or even below in second half of this year. But if we take a look at the first three quarter of Q3 the vintage is still around 4.5%. So do you still have the confidence or can you give us you know, another guidance on this vintage trend, in Q4 do you still – are you still very confident that you can - you're able to achieve vintage to 4% by the end of this year?
+Tony Hung
+[Foreign Language]
+Craig Zeng
+Yeah. So basically for the fourth quarter for the new loans were 4%, yeah, we’re full confidence we should be able to accomplish that for the new loans.
+Steven Chan
+[Foreign Language] Thank you.
+Operator
+[Operator Instructions] As there are no further questions. So with that, we conclude our conference for today. Thank you for participating. You may all disconnect.

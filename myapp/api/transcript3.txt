@@ -1,0 +1,157 @@
+Elbit Systems Ltd. (NASDAQ:ESLT) Q3 2020 Earnings Conference Call November 24, 2020  9:00 AM ET
+Company Participants
+Rami Myerson - Director, Investor Relations
+Joseph Gaspar - Executive Vice President and Chief Financial Officer
+Bezhalel Machlis - President and Chief Executive Officer
+Conference Call Participants
+Sheila Kahyaoglu - Jefferies
+Pete Skibitski - Alembic Global
+Dina Korshunov - Leader Capital Markets
+Operator
+Ladies and gentlemen, thank you for standing by. Welcome to Elbit Systems Third Quarter 2020 Results Conference Call. All participants are present in a listen-only mode. Following management’s full implementation, instructions will be given for the question-and-answer session. As a reminder, this conference is being recorded. You should have all received by now the company’s press release that is available in the new section of the company’s website www.elbitsystems.com.
+I would now like to hand over the call to Rami Myerson, Elbit Systems Investor Relations Director. Rami, please go ahead.
+Rami Myerson
+Thank you, Elana. Good day, everyone, and welcome to our third quarter 2020 earnings call. On the call with me today are Butzi Machlis, our President and CEO; and Yossi Gaspar, our Chief Financial Officer.
+Before we begin, I would like to point out that the Safe Harbor statement in the company’s press release issued earlier today also refers to the contents of this conference call. Yossi will begin by providing discussion of the financial results followed by Butzi, who will talk about some of the significant events during the quarter and beyond. We will then turn the call over to a question-and-answer session.
+With that, I would like now to turn the call over to Yossi. Yossi, please?
+Joseph Gaspar
+Thank you, Rami. Hello, everyone, and thank you for joining us today. The results of our third quarter reflect the resilience of Elbit Systems, the sustained demand for our products and services, and the operational improvement that is a result of the initiatives we have discussed with you in the past.
+As you are all familiar with COVID-19 has resulted in a significant slowdown in commercial air traffic and industry experts forecast that the commercial air traffic recovery to the 2019 level will likely take a number of years. Elbit Systems’ commercial aviation exposure is relatively small as a percentage of revenues, but we are not immune to the slowdown in the market.
+Our third quarter results include the $60 million non-cash expense for the impairment of commercial aerospace assets and inventory write-offs as a result of the impact of the COVID-19 on demand for products and services that Elbit Systems supplies to the commercial aviation markets.
+Excuse me. These expenses have been reported mainly in the cost of revenues line item in the P&L and have been excluded from our non-GAAP results, as we believe, these expenses are not representative of Elbit’s regular ongoing business.
+The recent news on COVID-19 vaccine are encouraging and we continue to monitor the situation closely, while adhering to the instructions of the governments of the various countries in which we operate.
+Turning now to our results. As we do every quarter, we will provide you with both our regular GAAP financial data, as well as certain supplemental non-GAAP information. We believe that these non-GAAP information provides additional detail to help understand the performance of the ongoing business. You can find all the detailed GAAP financial data, as well as the non-GAAP information and the reconciliation in today’s press release. The non-GAAP information is particularly relevant this quarter, as the third quarter results in 2019 included a one-off capital gain from a sale in lease back transaction in Israel, and the third quarter results of this year, including inventory write-offs and impairment, as mentioned above.
+
+Overall, we are satisfied with the improved performance in a challenging environment. Our order backlog and revenues increased year-over-year. And in comparison to the previous quarter, the improvements in profitability reflect the increased focus on operations, as well as the measures we have implemented to mitigate the financial impact of the COVID-19 pandemic.
+Our backlog of orders as of September 30, 2020 was $10.9 billion, more than $1 billion higher than the backlog at the end of the third quarter of 2019 and $55 million higher than that at the end of the second quarter of 2020. The order backlog is equivalent to more than two years of revenues and provides good visibility into the future.
+I should also note that the acquisition of Elbit Night Vision from L3 Harris closed on September 15, 2019, and was therefore consolidated into our financial statement commencing that the date of the acquisition.
+I will now highlight and discuss some of the key figures and trends of our financial results. Our third quarter 2020 revenues were $1,134 million. In terms of revenue breakdown across the areas of operation, land system sales accounted for 29% of total sales and increased year-over-year, mainly due to precision guided munitions sales to customers in North America and Asia Pacific.
+Electro-optics accounted for 10% of total sales and increased year-over-year, mainly due to the acquisition of Elbit Night Vision. C4ISR, a 25% of sales, declined year-over-year, primarily due to lower radio sales to Latin America. Our diverse geographic revenue base is important to the long-term sustainability of our business.
+In the quarter, North America was 13% of total revenues, was the largest geographic area, followed by Israel at 25%, Asia Pacific at 22%, Europe at 19% and Latin America at 2%. Growth in Israel was driven by tank fire control systems and the decline in Latin America was due to lower C4ISR sales, as mentioned.
+For the third quarter, the non-GAAP gross margin was 26.7%, up from the 26.3% in the third quarter last year. The improvement reflects increased focus we have placed on operational improvement that includes multiple initiatives and workflows.
+GAAP gross margin was 20.9% compared with 26% the third quarter of last year as a result of the non-cash expenses related to inventory write-offs and asset impairment due to the impact of the COVID-19, as mentioned above.
+Third quarter non-GAAP operating income was $93 million, or 8.2% of revenues compared with $81 million, or 7.3% of revenues in the third quarter of last year, due to higher gross margin and lower operating expenses.
+GAAP operating income in the quarter was $24 million versus $102 million in the third quarter of last year following the inventory write-offs and impairments. Our GAAP operating income in the third quarter of 2019 included a $28 million capital gain related to a sale and lease back transaction in Israel.
+The operating expenses breakdown in the quarter was as follows. Net R&D expenses at 8% of revenues versus 7.2% in the third quarter of last year. Marketing and selling expenses declined to 6.3% of revenues versus 6.9% last year, due to reduced travel and participation in trade exhibitions.
+G&A expenses were 4.5% of revenues versus 5.2% last year. Financial expenses for the third quarter of 2020 were $9.7 million compared to $18.5 million last year, mainly due to changes in the shekel dollar exchange rate in the period.
+The effective tax rate in the third quarter of 2020 was 15% higher than the 9.5% tax rate in the third quarter of 2019, mainly due to the geographic spread of the income, which included the write-off in the quarter.
+Income from affiliated companies and partnership was $4.9 million versus a loss of $470,000 in the third quarter of 2019, due to a $2.3 million write-off of an investment in an affiliate company in Israel last year.
+
+Our non-GAAP diluted EPS was $1.64 in the third quarter compared with $1.33 in the third quarter last year. GAAP EPS was $0.38 versus $1.63 last year.
+Our backlog orders as of September 30, 2020 was $10.86 billion, $1.1 billion higher than the backlog at the end of the third quarter of 2019 and $55 million higher than that at the end of the second quarter of 2020. Approximately, 46% of the current backlog is scheduled to be performed during the remainder of 2020 and 2021 and the rest is scheduled for 2022 and beyond. This ratio is broadly similar to that of the third quarter of last year.
+Operating cash flow for the quarter was a negative of $62 million compared with a negative $49 million in the same quarter last year and reflects the working capital outflow due to the timing of invoicing and collections for our customers, mainly from the Ministry of Defense in Israel. The Board of Directors declared a dividend of $0.44 per share for the third quarter of 2020.
+I will now turn the call over to Mr. Machlis. Please, Butzi.
+Bezhalel Machlis
+Thank you, Yossi. Before I review the results for the quarter, I would like to provide our perspective on global defense budgets. As we have received numerous questions from investors on this topic since the outbreak of COVID-19. Elbit Systems has not seen a change in demand for its products and services from its customers around the world. The growth in the backlog over recent quarters provides a good indication of the demand, and we have also seen an increase in expression of interest in our field.
+We also have not seen any indication of plans to cut defense budget in most of the countries in which we operate. The geopolitical tension around the world have not declined following the COVID-19 pandemic, and we expect these tensions to continue to drive defense budget growth over the medium and longer-term.
+We also expect countries to increase defense budgets to stimulate growth and support domestic employment and innovation. The announcement by the British government to increase defense spending by $16.5 billion pound over the next four years is very encouraging. The UK is an important market for Elbit. Elbit Systems UK employs more than 700 people across the UK, delivering key programs and capabilities to the UK MOD, such as the Watchkeeper UAV program and Affinity that provides services for the UK military Flying Training System.
+We believe there are many opportunities for our solutions in this important market, including command and control system, training solution and unmanned air and ground systems. Elbit Systems diverse geographical customer base and presence in strategic asset – Elbit Systems diverse work at the customer base and presence is a strategic asset. It has taken decades to build and we continue to invest to maintain the long-term stability of our business through defense budget cycles.
+As Elbit Systems, we’ll review our businesses and portfolio on a regular basis to ensure that the company is aligned closely to evolving customer priorities and to generate synergies between the broad range technologies in our portfolio.
+Following the latest review, we decided to implement a reorganization of some of our business activities. Our unmanned aircraft systems business will be integrated within the manned type of business to leverage the synergies across manned and unmanned military aircraft.
+We will integrate our electro-optical systems and electronic warfare and signal intelligence businesses to leverage our sensors and capabilities to provide advanced solutions across the electromagnetic spectrum.
+The precision guided munitions activities that are part of our military airborne systems activities will be integrated into the strong PGM portfolio that we acquired with IMI. The organization will begin during the coming months and will be completed during 2021.
+
+Moving through the business and the quarterly results, the third quarter included a number of strategic milestones and important development across different areas of our operations.
+In October, Elbit Night Vision in the U.S. received a $23 million contract from the U.S. Army for Enhanced Night Vision Goggle–Binocular system. This was part of an Other Transaction Authority or OTA framework contract of up to $444 million.
+Elbit Systems is one of two suppliers of NVTB to the U.S. Army. This is an important milestone for the Night Vision business that we acquired in September last year. We are very pleased with the position that is performing better than expected. I’m even more optimistic about the potential synergies between our legacy thermal imaging night vision portfolio and the image intensifier night vision business over the coming years.
+This is clearly the future of advanced systems for night operation, and Elbit Systems is well positioned to benefit from the demand for integrating night vision system. In recent months, we will receive a support contract from our night vision head up display system for pilots from the U.S. Army and was selected by the U.S. Marines to develop an integrated targeting site. These contacts highlight the breadth of our electro-optical portfolio that are also integrated into aerospace and land platform.
+Elbit Systems market-leading command and control solution provides militaries with the ability to connect forces in the air, on the ground and sea seamlessly and effectively to support multiple manipulations. Our command and control solutions are deployed around the world by customers from Australia to Sweden. The idea is rolling out the latest version of Elbit Systems TORCH-X command and control solution that enables highly effective sharing information across multi-domains.
+The feedback from the users across all domains has been very positive. They have been impressed by the ability to share information seamlessly in ways that were not possible in the past. Elbit Systems of America supplies the U.S. Department of Homeland Security with the command and control solution form for the U.S. border with Mexico, and we are a supplier for the U.S. Army’s Command and Control integrated infrastructure or CPI-2 program.
+In November, the U.S. Air Force selected Elbit Systems of America to compete for Joint All Domain Command and Control task orders as part of a large ID/IQ contract for municipal suppliers. This election is another vote for confidence in Elbit technology from the U.S. Air Force following the large Missile Warning System Program Award earlier in the year.
+We are integrated – integrating artificial intelligence and data analysis into our command and control solutions that I expect will be an important growth driver for Elbit over the coming years. Elbit Systems has a large portfolio of solutions for all vehicles and tanks, including manned and unmanned turrets, active protection systems, target acquisition, fire control and communication systems. Our combat technology demonstrator integrated the latest generation of legacy capabilities and new technologies for combat vehicles.
+This concludes IO vision that provide with 360-degree vision from inside the vehicle and leverages our helmet mounted displays and sensor capability to provide a unique and highly innovative solution. We recently teamed up with BAE Systems, one of the largest global manufacturing of armor Combat Vehicles to develop an integrated advanced capabilities for combat vehicles.
+We are already walking will BAE on the integration of our own fists, on BAE CV90 for the Netherlands, and there is a significant potential for this partnership over the coming years as militaries around the world would like to replace and upgrade to combat vehicle.
+
+In summary, I would like to thank Elbit Systems employees around the world for their continued hard work in challenging times. Our backlog continues to provide us with good visibility, and we continue to see significant potential around the world for leading high technology solutions. And we will generate value for all of our stakeholders, our employees, our customers, our suppliers, and, of course, for you our shareholders.
+And with that, I will be happy to take your questions. Operator?
+Question-and-Answer Session
+Operator
+Thank you. Ladies and gentlemen, at this time, we’ll begin the question-and-answer session. [Operator Instructions] The first question is from Sheila Kahyaoglu of Jefferies. Please go ahead.
+Sheila Kahyaoglu
+Hi, good afternoon, good morning, guys. Thank you for taking the question. Can we talk about maybe just free cash flow to start? I must have misheard EOC. But during the prepared remarks, you mentioned some reversal in the Israel payments. Can you just talk about what’s going on with the working capital balance and how we should think about quarterly free cash flow run rate?
+Joseph Gaspar
+Yes. Hi, Sheila, how are you?
+Unidentified Analyst
+Good. How are you?
+Joseph Gaspar
+Good. Yes, we are facing some, I would say, challenging times with our customers here in Israel, the Ministry of Defense. Right now, there are some discussions about setting the budgets for this year and next year and this is under discussion in our parliament. And this is actually the main hurdle in front of the IMOD to release their payments.
+There is no question about are we going to get the payments? There’s a question, are we going to get them soon or a little bit later? We – the IMOD delayed payments on programs this quarter. Just to remind ourselves, last quarter, the second quarter of 2020 was a good quarter and they did pay us quite a significant amount.
+However, their debt increased this quarter. And from our discussions with IMOD, the expectation is that the debt will be reduced towards the end of the year. Although we have no guarantee yet on this. There is no doubt we are going to be paid as soon as the IMOD gets its budget in place. When is that going to happen? Hopefully, this year, during December, at the latest, during the first quarter of next year.
+Sheila Kahyaoglu
+Okay, got it. And then can we just talk about some of the organic growth trends you guys are seeing or land systems is particularly strong, how sustainable is that? And then what – if you could just give us a little bit more detail on C4ISR, you mentioned lower radio sales to Latin America. What’s going on in that business? When do you expect that recovery? And then similarly with electro-optical systems, just why the decline on an organic basis there?
+Bezhalel Machlis
+Sheila, as you know, our company, we recommend to look at our performance on multi-quarter basis. A specific quarter can fluctuate one way or another in revenues and definitely in the various geographies or the business areas that we operate in. Specifically, your questions, we started definitely to see some improvement and synergy built already through the acquisition of IMI with significant contracts in the international markets. And with that did help the gross of the land systems business.
+Also, we had some increased sales in the – this quarter of our control systems for the IMOD. That is the land systems. Going forward, we’re definitely looking to see increased – increase in revenues in land systems, of course, on an average of a multi-quarter basis, because the – and the nice things that are happening with the integration of IMI in the land systems.
+Regarding C4, radio equipment is health in batches worldwide. And last year, we had, in the third quarter, some significant sales of radio equipment to Latin America. We do see a strong interest in our radio and communication equipment worldwide. And may I just mention significant event that happened several weeks ago that a major potential contract to us in Switzerland was approved by the parliament. And we hope that somewhat in the near future, we’re going to get the contract on that.
+
+But similarly, we have many places that our C4 equipment is sold, installed and it is – we expect more contracts. Remember our Australian position, which essentially our C4 business brought in growth over a $1billion of business in the command and control and radio-related equipment, Netherlands and other places in the world.
+So we do consider that interoperability requires a lot of bandwidth and communication and therefore, that will continue to push the growth in the revenues in this area of our business.
+Sheila Kahyaoglu
+Okay. Thank you so much. I’ll jump back in the queue.
+Joseph Gaspar
+Thanks, Sheila.
+Operator
+The next question is from Pete Skibitski of Alembic Global. Please go ahead.
+Pete Skibitski
+Yes, good afternoon, Butzi, and Yossi and Rami. I just want to review, guys, the commercial aerospace exposure, because we have a sense of when – how things are likely to annualize for you. Can you ballpark for us just either in absolute terms your revenue exposure to commercial aerospace or as a percentage of revenue? And then I think a lot of the suppliers out there on average are looking at maybe a 40% type of decline in revenue for the third quarter and expecting, maybe a couple of more quarters of tough comps before things annualize, probably no later than the second or third quarter of 2021. So, again, can you maybe ballpark your exposure and let us know if that kind of profile is something that you guys are seeing?
+Bezhalel Machlis
+Yes. Well, the total non-defense business at Elbit Systems is less than 10%. It is composed of two elements. One is the commercial aviation avionics business, and the other one is the medical instrumentation business.
+Out of that now, we are – our revenues are in the $4.5 billion or $4.5. So less than 10% is the non-defense part. And part of that 10% is the commercial avionics business. So it’s several hundreds of millions of dollars at the max.
+We did see a reduced requirement for our products and services in this area due to what the whole world has experienced with lower traffic. The expectation is, from what we have learned that the level of traffic and requirements for products and services of 2019 will come back somewhere in the 2023, 2024 timeframe.
+We looked at the demand for products and we analyzed our assets and therefore, we have impaired that accordingly. So this part, we still have revenues. We still are selling most of the areas. We are quite unique, for example, in the area of landing systems in diverse weather. We have very special solutions for that. And this is still required. However, people are flying less, so we are selling less.
+We do see a significant increase in the other part of the commercial business, and that is the medical instrumentation business, which is in the $100 million to $150 million presently and growing strongly. They are making and that is just laboratories for analysis of liquids and blood and stuff like that. And they are very involved in the presently required COVID-19 detection environment, the needs for that.
+So that is partly compensating for the due, the reduction in the commercial aviation. And the growth that we have seen in the recent quarters, which is not very strong, but is still growth, does reflect also the reduction in the commercial aviation business.
+Pete Skibitski
+Okay. I really appreciate all the color. I mean, I was also intrigued about the reorganization. So, maybe you guys can talk about, was this primarily was just a cost takeout, cost reduction type of move? Or was it more so revenue synergies maybe with a desire to kind of align business development activities? Could you give us a sense what the primary driver of the reorganization was?
+Bezhalel Machlis
+Yes. Good afternoon. The primary driver for the reorganization was to generate more synergies within the company and to bring more revenue to the company. We are having a strategic session each year. We’re trying to predict what will be the market needs in the future. And based on that, we adapt our portfolio. And this reorganization that was declared this week was exactly for that was to leverage synergies and to create an advanced portfolio, which we believe will lead the market in the near future.
+
+Pete Skibitski
+That’s very helpful. And very last one for me. More financial cash from investing activities this quarter. It looks like you guys booked a large around $70 million or so sale of PP&E in this quarter. But can you give us some color on what that was about?
+Joseph Gaspar
+Well, our capital investment includes a replacement of equipment, renewal of inventories and so on. And then also we are starting to see some investments required to establish the production site for the IMI transition to the South of Israel. In this world, we are preparing everything needed, so that the transaction – the transition can be achieved somewhere during 2023. We do – we have started some investment in that area and that will continue during the next and four long years.
+Pete Skibitski
+Okay. Did you get a payment from the government for that this quarter?
+Joseph Gaspar
+Oh, this quarter. No, we did not get. We had payments in the past. This quarter, we got inflow we had from different transactions from other kind of transactions.
+Pete Skibitski
+Okay. Okay, great. Thanks so much, guys.
+Bezhalel Machlis
+Thank you.
+Joseph Gaspar
+Thanks, Pete.
+Operator
+The next question is from [indiscernible] with Excellence. Please go ahead.
+Unidentified Analyst
+All right. Thanks. First, regarding the margins of the company. The IMI acquisition lowered your margins. So do you see improvements in the margins of Elbit in the future due to the synergies with IMI? And if so, when do you see it?
+Joseph Gaspar
+We’re definitely improving, working hard to improve the margins, and we started seeing some results of that, and this quarter is definitely one of them. This is a gradual process. It will take some time, but it is on the right direction. We have a multi-year plan that includes many elements of cost reduction of these improvements. We did mention in the past the implementation of one ERP system across the whole organization.
+By the way, all the investments that you see and expenses related with that are included in our ongoing results. We have initiated that already here in part of the Airborne division in the U.S. operations. By the end of this year, we’ll have the electro-optics business going with the same ERP. And next year, we expect the other divisions to implement that. And we expect that to result in very nice improvements in efficiencies, reduction in inventories and so on and so forth.
+So bottom line, yes, we are working on it. We have a multi-year plan. We are improving. Unfortunately, we do not reap all the benefits of it, because some of that is, I would say, is offset by the strong Israeli currency, the strong shekel versus the U.S. dollar. However, we are managing to take care of that as well as we go forward.
+Unidentified Analyst
+All right. Thanks.
+Operator
+The next question is Dina Korshunov of Leader Capital Markets. Please go ahead.
+Dina Korshunov
+Hi, guys, how are you? You answered most of my questions, but – so I have just one. Can you tell us a bit about the financial potential of the partnerships you have with BAE?
+Bezhalel Machlis
+We have team together with BAE for a new program, which is about to happen in the U.S. There is a tender to replace. We expect the tender to replace the Bradley fleet in the U.S. market. And the Bradley is a fighting vehicle, which was produced by BAE by thousands. And the team agreement, which we have with them, is for an advanced solution. Part of it will come from BAE and part of which will come for us and we will submit a joint proposal for this tender.
+The potential is quite big to replace the big amount of papers in the U.S. market. As I mentioned in my brief, we team with them also for an upgrade of the CV90 in the Netherlands and they won. And we will provide several systems, such as the Iron Fist Active Protection Systems for the CV90s.
+
+Dina Korshunov
+Okay, I understand. And when do you expect all these things will happen? When we will see all the progress in this area?
+Bezhalel Machlis
+We’re waiting for our people to come. I don’t want – I don’t remember the data at all, but it shouldn’t take long.
+Dina Korshunov
+Okay. Thank you very much.
+Bezhalel Machlis
+You’re welcome.
+Joseph Gaspar
+Thanks, Dina.
+Operator
+[Operator Instructions] There are no further questions at this time. Before I ask Mr. Machlis to go ahead with his closing statement, I would like to my participants that a replay of this call will be available two hours after the conference ends. In the U.S., please call 1-888-782-4291. In Israel, please call 03-925-5918 And internationally, please call 972-3-925-5918. A replay of the call will also be available at the company’s website, www.elbitsystems.com.
+Mr. Machlis, would you like to make your concluding statement?
+Bezhalel Machlis
+Yes. I would like to thank all our employees again for their continued hard work, particularly in these challenging times. To everyone on the call, thank you for joining us today and for your continued support and interest in our company. Have a good day and good bye.
+Operator
+Thank you. This concludes the Elbit Systems Ltd. third quarter 2020 results conference call. Thank you for your participation. You may go ahead and disconnect.
