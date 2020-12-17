@@ -1,5 +1,5 @@
 import streamlit as st
-import scraping, masking, deanonymization, recognition, login, loginstatus, anonymize
+import scraping, masking, deanonymization, recognition, login, loginstatus, anonymize, sentiment
 
 PAGELIST = {
     "Login": login,
@@ -7,7 +7,8 @@ PAGELIST = {
     "Recognition": recognition,
     "Masking": masking,
     # "Anonimization": anonymize,
-    "Deanonymization": deanonymization
+    "Deanonymization": deanonymization,
+    "Sentiment": sentiment
 }
 
 st.sidebar.title('Team 7')

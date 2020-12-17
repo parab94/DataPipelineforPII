@@ -8,8 +8,6 @@ The goal of this assignment is to create APIs which can -
 
 Additionally, we will create a **Streamlit** interface where we will test the APIs and display the results.
 
-
-
 ## Folders and Files
 
 - Streamlit - this folder contains the main page and all the type of views where we will show one API per page 
@@ -28,6 +26,7 @@ Below are all the files and their descriptions in the Streamlit folder
 - recognition.py- contains view and API to recognize each entity from the article/text. PII information is detected by the API using AWS Comprehend Service from the text files
 - masking.py- contains view and API to mask entitites from the text. The recogized entities will be displayed as masked data in the page after the API is called
 - deanonymization.py- contains view and API to de-anonymize entities from te anonymized text. We use a hash algorithm to deanonymize the anonymize data in a previous API and display the data in this page
+-sentiment.py- contains view and API to predict sentiment scores fo the deanonymized text. We use tensorflow-serving and docker create a server
 
 Post authentication, each page will check if the user is logged in before actually calling the API. This will ensure that only if the user is logged in, will the data be displayed in the  respective pages.
 
@@ -55,3 +54,4 @@ A RestApi based API is created with complete control over the request and respon
 
 **Re-identify**: The Api re-identifies the entities from the mentioned text file with the help of the given hash key.
 
+**Prediction**: This API predicts the sentiment score of a sentiment/text
